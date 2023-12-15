@@ -1,0 +1,9 @@
+.hog-image-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .hog-image {
+    max-width: 100%;
+    height: auto;
+  }
